@@ -1,3 +1,2 @@
-# App-Todo
+# todo-app
 A Todo application
-It is a basic Todo app
